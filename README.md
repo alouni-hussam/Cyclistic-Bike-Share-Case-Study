@@ -1,0 +1,1 @@
+This case study analyzes 3.97 million valid trip records from August 2025 through July 2026 for Cyclistic (Chicago’s Divvy bike-share system)[cite: 1]. The primary goal is to uncover behavioral differences between casual riders and annual members to design targeted, high-ROI marketing strategies that convert casual riders into annual members
